@@ -1,79 +1,157 @@
-# Yohan Gala
+<h1 align="center">Hi 👋, I'm Yohan Gala</h1>
+<h3 align="center">ML Researcher • NLP • Computer Vision • Healthcare AI</h3>
 
-ML researcher & CS undergrad at **K J Somaiya Institute of Technology, Mumbai**.
-Building at the intersection of NLP, Computer Vision, and Healthcare AI.
-4 published papers — IEEE Xplore, international journals & conferences.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=ML+Researcher+%7C+4+Published+Papers;NLP+%7C+Computer+Vision+%7C+Deep+Learning;IEEE+Xplore+Published+Author;Turning+Research+Into+Real+Systems" />
+</p>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=flat&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org)
+---
+
+## 🧠 About Me
+🎓 Computer Engineering — **K. J. Somaiya Institute of Technology, Sion, Mumbai**
+🔬 4 peer-reviewed publications — IEEE Xplore, international journals & conferences
+🤖 Building ML systems in NLP, Computer Vision & Healthcare AI
+📊 Ensemble learning, transformer fine-tuning, multilingual NLP
+🌍 Passionate about research-driven solutions to real-world problems
+
+📧 Email → yohangala2004@gmail.com
 
 ---
 
 ## 📄 Published Research
 
-> **4 peer-reviewed publications** in IEEE Xplore, international journals, and conferences.
-
-### 1. Lung Cancer Prediction using Ensemble ML
+### 🫁 Lung Cancer Prediction using Ensemble ML
 **IEEE Xplore · INDIACom 2025 · Mar 2025**
-10-classifier ensemble with ADASYN oversampling; XGBoost achieves **96.64% accuracy**.
-[📄 IEEE Xplore](https://ieeexplore.ieee.org/document/11115872) · [💻 Repo](https://github.com/Yohangala/Lung_Cancer)
+✔ 10-classifier ensemble with ADASYN oversampling
+✔ XGBoost achieves **96.64% accuracy**
+✔ Published on IEEE Xplore
+
+[![IEEE](https://img.shields.io/badge/IEEE_Xplore-View_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11115872)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Yohangala/Lung_Cancer)
 
 ---
 
-### 2. Fabric Defect Detection
+### 🧵 Fabric Defect Detection
 **Cuestiones de FISIOTERAPIA · Feb 2025**
-Automated visual inspection system for textile quality control using computer vision.
+✔ Automated visual inspection for textile quality control
+✔ Deep learning-based defect localization pipeline
 
 ---
 
-### 3. Wheat Disease Detection
+### 🌾 Wheat Disease Detection
 **ICETS 2025 · Jun 2025**
-Deep learning pipeline for early-stage wheat disease identification from leaf images.
+✔ Early-stage disease identification from leaf images
+✔ Deep learning classification pipeline
 
 ---
 
-### 4. Multilingual News Classification
+### 🗞️ Multilingual News Classification
 **Smart Systems for Sustainable Development · Apr 2026**
-Cross-lingual news classification across 4 Indian languages (English, Hindi, Gujarati, Marathi) using MuRIL, DistilBERT, and IndicBERT.
-[💻 Repo](https://github.com/Yohangala/multilingual-news-classification)
+✔ 4 Indian languages — English, Hindi, Gujarati, Marathi
+✔ MuRIL, DistilBERT & IndicBERT fine-tuning
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Yohangala/multilingual-news-classification)
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description |
-|---|---|
-| **Electricity Analytics Dashboard** | Power consumption trends, anomaly detection, portfolio demo |
-| **Social Media Analytics** | Engagement metrics and sentiment analysis pipeline |
-| **Global Sales Analytics** | Multi-region sales forecasting and visualization |
-| **Teacher Management App** | Firebase-backed CRUD app for institutional record management |
+### ⚡ Electricity Analytics Dashboard
+✔ Power consumption trend analysis
+✔ Anomaly detection & forecasting
+✔ Interactive Streamlit dashboard
 
 ---
 
-## 🛠️ Skills
+### 📱 Social Media Analytics
+✔ Engagement metrics pipeline
+✔ Sentiment analysis & trend tracking
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)]()
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)]()
-[![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat)]()
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)]()
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)]()
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)]()
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)]()
+---
+
+### 🌍 Global Sales Analytics
+✔ Multi-region sales forecasting
+✔ Data visualization & reporting
+
+---
+
+### 👨‍🏫 Teacher Management App
+✔ Firebase-backed CRUD application
+✔ Institutional record management system
+
+---
+
+## ⚡ Tech Stack
+
+### 🤖 AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+### 🛠️ Tools & Dev
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://github.com/Yohangala"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:yohangala2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Yohangala&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
-![Yohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yohangala&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohangala&layout=compact&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yohangala&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-📧 yohangala2004@gmail.com · [GitHub](https://github.com/Yohangala)
+## 🔥 GitHub Streak
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yohangala&theme=tokyonight" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohangala&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/Yohangala/Yohangala/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Yohangala&label=Profile%20Views&color=00F7FF&style=flat" />
+</p>
+
+---
+
+⭐ From Yohan Gala — Research-Driven ML Engineering
